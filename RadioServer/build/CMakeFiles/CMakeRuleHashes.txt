@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+96edb86e901fd34cd31d84b813b7cc38 RadioServer.moc
+b476e4590b2d8432e38821388c0b8174 networkmanager.moc
+6bfc3d800c74a4ccf6c4101e3cdd49d5 radioinput.moc

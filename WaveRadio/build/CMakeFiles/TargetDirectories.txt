@@ -1,0 +1,1 @@
+/home/lovewilliam/Develop/Radio/WaveRadio/build/CMakeFiles/WaveRadio.dir

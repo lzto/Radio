@@ -1,0 +1,2 @@
+/usr/bin/WaveRadio
+/usr/share/OpenWave/icons/aol-radio-icon-512x512.png

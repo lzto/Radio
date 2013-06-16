@@ -1,0 +1,16 @@
+#ifndef _IR_
+#define _IR_
+
+unsigned long EEMEM ir_table[]
+={
+	0xba45ff00,0xb946ff00,0xb847ff00,//ch-,ch,ch+
+	0xbb44ff00,0xbf40ff00,0xbc43ff00,//|<<,>>|,>||
+	0xf807ff00,0xea15ff00,0xf609ff00,//-,+,EQ
+	0xe916ff00,0xe619ff00,0xf20dff00,//0,100+,200+
+	0xf30cff00,0xe718ff00,0xa15eff00,//1,2,3
+	0xf708ff00,0xe31cff00,0xa55aff00,//4,5,6
+	0xbd42ff00,0xad52ff00,0xb54aff00//7,8,9
+};
+
+#endif //_IR_
+

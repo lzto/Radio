@@ -1,0 +1,11 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x12\x00W\x00a\x00v\x00e\x00R\x00a\x00d\x00i\x00o)
+
+[CMake]
+BuildDirs=/home/lovewilliam/Develop/Radio/WaveRadio/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/lovewilliam/Develop/Radio/WaveRadio/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+ProjectRootRelative=./

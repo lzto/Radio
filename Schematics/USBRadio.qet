@@ -1,0 +1,1277 @@
+<project title="" version="0.22">
+    <newdiagrams>
+        <border displayrows="true" cols="17" displaycols="true" colsize="60" rows="8" rowsize="80"/>
+        <inset title="" folio="%id/%total" author="" filename="" date="null"/>
+        <conductors num="_" type="multi"/>
+    </newdiagrams>
+    <diagram title="OpenWave Radio" displayrows="true" cols="17" folio="%id/%total" displaycols="true" height="660" colsize="60" order="1" rows="8" author="lovewillliam" filename="Schematic" date="20110531" rowsize="80">
+        <defaultconductor num="_" type="multi"/>
+        <elements>
+            <element x="420" y="570" type="embed://import/semiconducteurs/del.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="0" orientation="0"/>
+                    <terminal x="0" y="17" id="1" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="7.75" y="3" text=""/>
+                </inputs>
+            </element>
+            <element x="380" y="550" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="2" orientation="0"/>
+                    <terminal x="0" y="17" id="3" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="1020" y="470" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="4" orientation="0"/>
+                    <terminal x="0" y="17" id="5" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="940" y="510" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="6" orientation="0"/>
+                    <terminal x="0" y="17" id="7" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="850" y="240" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="8" orientation="0"/>
+                    <terminal x="0" y="17" id="9" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="970" y="90" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="10" orientation="0"/>
+                    <terminal x="0" y="17" id="11" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="1000" y="550" type="embed://import/phonejack.elmt" orientation="0">
+                <terminals>
+                    <terminal x="-9" y="-18" id="12" orientation="3"/>
+                    <terminal x="-9" y="0" id="13" orientation="3"/>
+                    <terminal x="-9" y="30" id="14" orientation="3"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="800" y="270" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="15" orientation="0"/>
+                    <terminal x="0" y="17" id="16" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="800" y="210" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="17" orientation="0"/>
+                    <terminal x="0" y="17" id="18" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="860" y="320" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="19" orientation="0"/>
+                    <terminal x="0" y="17" id="20" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="860" y="150" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="21" orientation="0"/>
+                    <terminal x="0" y="17" id="22" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="820" y="320" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="23" orientation="0"/>
+                    <terminal x="0" y="17" id="24" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="820" y="150" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="25" orientation="0"/>
+                    <terminal x="0" y="17" id="26" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="760" y="100" type="embed://import/antenna.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-3" id="27" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="470" y="630" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="28" orientation="0"/>
+                    <terminal x="0" y="17" id="29" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="550" y="630" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="30" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="560" y="630" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="31" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="760" y="130" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="32" orientation="0"/>
+                    <terminal x="0" y="17" id="33" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="500" y="310" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="34" orientation="0"/>
+                    <terminal x="0" y="17" id="35" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="480" y="300" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="36" orientation="0"/>
+                    <terminal x="0" y="17" id="37" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="610" y="310" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="38" orientation="0"/>
+                    <terminal x="0" y="17" id="39" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="580" y="310" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="40" orientation="0"/>
+                    <terminal x="0" y="17" id="41" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="720" y="240" type="embed://tea5767.elmt" orientation="0">
+                <terminals>
+                    <terminal x="-19" y="-16" id="42" orientation="3"/>
+                    <terminal x="-19" y="-7" id="43" orientation="3"/>
+                    <terminal x="-19" y="16" id="44" orientation="3"/>
+                    <terminal x="-19" y="6" id="45" orientation="3"/>
+                    <terminal x="20" y="-17" id="46" orientation="1"/>
+                    <terminal x="20" y="-8" id="47" orientation="1"/>
+                    <terminal x="20" y="15" id="48" orientation="1"/>
+                    <terminal x="20" y="5" id="49" orientation="1"/>
+                    <terminal x="-19" y="-1" id="50" orientation="3"/>
+                    <terminal x="20" y="-1" id="51" orientation="1"/>
+                </terminals>
+                <inputs>
+                    <input x="-14" y="1.66667" text="TEA5767"/>
+                </inputs>
+            </element>
+            <element x="560" y="450" type="embed://import/ams1117.elmt" orientation="0">
+                <terminals>
+                    <terminal x="-11" y="7" id="52" orientation="2"/>
+                    <terminal x="-1" y="7" id="53" orientation="2"/>
+                    <terminal x="10" y="7" id="54" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="-11" y="0.333333" text="AMS1117"/>
+                </inputs>
+            </element>
+            <element x="190" y="320" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="55" orientation="0"/>
+                    <terminal x="0" y="17" id="56" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="190" y="300" type="embed://import/recepteurs/rlc/normaux/capacite.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="57" orientation="0"/>
+                    <terminal x="0" y="17" id="58" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="230" y="310" type="embed://oscal.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="-5" id="59" orientation="0"/>
+                    <terminal x="0" y="6" id="60" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="160" y="190" type="embed://import/protections/int_sect.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="61" orientation="0"/>
+                    <terminal x="0" y="17" id="62" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="2.75" y="3" text="RESET"/>
+                </inputs>
+            </element>
+            <element x="190" y="260" type="embed://import/semiconducteurs/del.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="63" orientation="0"/>
+                    <terminal x="0" y="17" id="64" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="7.75" y="3" text=""/>
+                </inputs>
+            </element>
+            <element x="80" y="310" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="65" orientation="0"/>
+                    <terminal x="0" y="17" id="66" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="40" y="260" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="67" orientation="0"/>
+                    <terminal x="0" y="17" id="68" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="310" y="270" type="embed://atmega8.elmt" orientation="0">
+                <terminals>
+                    <terminal x="31" y="-45" id="69" orientation="1"/>
+                    <terminal x="31" y="-38" id="70" orientation="1"/>
+                    <terminal x="31" y="-32" id="71" orientation="1"/>
+                    <terminal x="31" y="-26" id="72" orientation="1"/>
+                    <terminal x="31" y="-19" id="73" orientation="1"/>
+                    <terminal x="31" y="-12" id="74" orientation="1"/>
+                    <terminal x="31" y="-4" id="75" orientation="1"/>
+                    <terminal x="31" y="8" id="76" orientation="1"/>
+                    <terminal x="31" y="16" id="77" orientation="1"/>
+                    <terminal x="31" y="24" id="78" orientation="1"/>
+                    <terminal x="31" y="33" id="79" orientation="1"/>
+                    <terminal x="31" y="42" id="80" orientation="1"/>
+                    <terminal x="31" y="50" id="81" orientation="1"/>
+                    <terminal x="31" y="58" id="82" orientation="1"/>
+                    <terminal x="-30" y="-44" id="83" orientation="3"/>
+                    <terminal x="-30" y="-37" id="84" orientation="3"/>
+                    <terminal x="-30" y="-30" id="85" orientation="3"/>
+                    <terminal x="-30" y="-24" id="86" orientation="3"/>
+                    <terminal x="-30" y="-17" id="87" orientation="3"/>
+                    <terminal x="-30" y="-10" id="88" orientation="3"/>
+                    <terminal x="-30" y="-3" id="89" orientation="3"/>
+                    <terminal x="-30" y="8" id="90" orientation="3"/>
+                    <terminal x="-30" y="16" id="91" orientation="3"/>
+                    <terminal x="-30" y="25" id="92" orientation="3"/>
+                    <terminal x="-30" y="34" id="93" orientation="3"/>
+                    <terminal x="-30" y="42" id="94" orientation="3"/>
+                    <terminal x="-30" y="50" id="95" orientation="3"/>
+                    <terminal x="-30" y="58" id="96" orientation="3"/>
+                </terminals>
+                <inputs>
+                    <input x="-18" y="9" text="ATMeag8"/>
+                </inputs>
+            </element>
+            <element x="70" y="570" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="97" orientation="0"/>
+                    <terminal x="0" y="17" id="98" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="100" y="620" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="99" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="130" y="500" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="100" orientation="0"/>
+                    <terminal x="0" y="17" id="101" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="100" y="500" type="embed://import/recepteurs/rlc/normaux/resistance.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="-17" id="102" orientation="0"/>
+                    <terminal x="0" y="17" id="103" orientation="2"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="200" y="510" type="embed://import/semiconducteurs/diode.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="104" orientation="0"/>
+                    <terminal x="0" y="17" id="105" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="7.75" y="3" text=""/>
+                </inputs>
+            </element>
+            <element x="200" y="540" type="embed://import/semiconducteurs/diode.elmt" orientation="3">
+                <terminals>
+                    <terminal x="0" y="-17" id="106" orientation="0"/>
+                    <terminal x="0" y="17" id="107" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="7.75" y="3" text=""/>
+                </inputs>
+            </element>
+            <element x="480" y="600" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="108" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="470" y="600" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="109" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="510" y="600" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="110" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="490" y="600" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="111" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="500" y="600" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="2">
+                <terminals>
+                    <terminal x="0" y="23" id="112" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="510" y="540" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="113" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="500" y="540" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="114" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="490" y="540" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="115" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="480" y="540" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="116" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="470" y="540" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="117" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="160" y="620" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="118" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="130" y="620" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="119" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="70" y="620" type="embed://import/contacts/bornes/connecteur_m.elmt" orientation="0">
+                <terminals>
+                    <terminal x="0" y="23" id="120" orientation="0"/>
+                </terminals>
+                <inputs/>
+            </element>
+            <element x="980" y="220" type="embed://import/ne5532.elmt" orientation="0">
+                <terminals>
+                    <terminal x="-22" y="-20" id="121" orientation="0"/>
+                    <terminal x="-10" y="-20" id="122" orientation="0"/>
+                    <terminal x="7" y="-20" id="123" orientation="0"/>
+                    <terminal x="20" y="-20" id="124" orientation="0"/>
+                    <terminal x="-22" y="20" id="125" orientation="2"/>
+                    <terminal x="-10" y="20" id="126" orientation="2"/>
+                    <terminal x="8" y="20" id="127" orientation="2"/>
+                    <terminal x="20" y="20" id="128" orientation="2"/>
+                </terminals>
+                <inputs>
+                    <input x="-21" y="2.33333" text="NE5532"/>
+                </inputs>
+            </element>
+        </elements>
+        <conductors>
+            <conductor num="_" terminal1="3" terminal2="120" type="multi">
+                <segment length="14" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="-310" orientation="horizontal"/>
+                <segment length="40" orientation="vertical"/>
+                <segment length="14" orientation="vertical"/>
+            </conductor>
+            <conductor num="_" terminal1="1" terminal2="118" type="multi"/>
+            <conductor num="" terminal1="2" terminal2="0" type="multi"/>
+            <conductor num="" terminal1="4" terminal2="122" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="-320" orientation="vertical"/>
+                <segment length="-50" orientation="horizontal"/>
+                <segment length="67" orientation="vertical"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="6" terminal2="125" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="-140" orientation="vertical"/>
+                <segment length="18" orientation="horizontal"/>
+                <segment length="-87" orientation="vertical"/>
+                <segment length="-9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="5" terminal2="12" type="multi"/>
+            <conductor num="" terminal1="7" terminal2="13" type="multi"/>
+            <conductor num="" terminal1="9" terminal2="126" type="multi"/>
+            <conductor num="" terminal1="8" terminal2="125" type="multi"/>
+            <conductor num="" terminal1="10" terminal2="123" type="multi"/>
+            <conductor num="" terminal1="11" terminal2="122" type="multi"/>
+            <conductor num="" terminal1="128" terminal2="14" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="157" orientation="vertical"/>
+                <segment length="-100" orientation="horizontal"/>
+                <segment length="170" orientation="vertical"/>
+                <segment length="41.3333" orientation="horizontal"/>
+                <segment length="45.6667" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="15" terminal2="127" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="20" orientation="horizontal"/>
+                <segment length="60" orientation="vertical"/>
+                <segment length="168" orientation="horizontal"/>
+                <segment length="-47" orientation="vertical"/>
+                <segment length="-9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="18" terminal2="124" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="20" orientation="horizontal"/>
+                <segment length="-53" orientation="vertical"/>
+                <segment length="180" orientation="horizontal"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="20" terminal2="126" type="multi"/>
+            <conductor num="" terminal1="24" terminal2="19" type="multi"/>
+            <conductor num="" terminal1="16" terminal2="128" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="60" orientation="vertical"/>
+                <segment length="200" orientation="horizontal"/>
+                <segment length="-107" orientation="vertical"/>
+                <segment length="-9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="17" terminal2="121" type="multi"/>
+            <conductor num="_" terminal1="15" terminal2="18" type="multi"/>
+            <conductor num="" terminal1="22" terminal2="123" type="multi"/>
+            <conductor num="" terminal1="26" terminal2="21" type="multi"/>
+            <conductor num="" terminal1="49" terminal2="23" type="multi"/>
+            <conductor num="" terminal1="51" terminal2="25" type="multi"/>
+            <conductor num="" terminal1="128" terminal2="48" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="107" orientation="vertical"/>
+                <segment length="-247" orientation="horizontal"/>
+                <segment length="-105" orientation="vertical"/>
+                <segment length="-9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="_" terminal1="121" terminal2="65" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="-77" orientation="vertical"/>
+                <segment length="-899" orientation="horizontal"/>
+                <segment length="200" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="32" terminal2="27" type="multi"/>
+            <conductor num="" terminal1="109" terminal2="28" type="multi"/>
+            <conductor num="" terminal1="29" terminal2="110" type="multi"/>
+            <conductor num="" terminal1="31" terminal2="120" type="multi">
+                <segment length="14" orientation="vertical"/>
+                <segment length="15" orientation="vertical"/>
+                <segment length="-250" orientation="horizontal"/>
+                <segment length="10" orientation="vertical"/>
+                <segment length="-240" orientation="horizontal"/>
+                <segment length="-25" orientation="vertical"/>
+                <segment length="14" orientation="vertical"/>
+            </conductor>
+            <conductor num="_" terminal1="109" terminal2="118" type="multi"/>
+            <conductor num="" terminal1="110" terminal2="30" type="multi">
+                <segment length="4" orientation="vertical"/>
+                <segment length="45" orientation="vertical"/>
+                <segment length="40" orientation="horizontal"/>
+                <segment length="-5" orientation="vertical"/>
+                <segment length="-14" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="109" terminal2="108" type="multi"/>
+            <conductor num="" terminal1="111" terminal2="108" type="multi"/>
+            <conductor num="" terminal1="112" terminal2="111" type="multi"/>
+            <conductor num="" terminal1="113" terminal2="80" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="-200" orientation="vertical"/>
+                <segment length="-110" orientation="horizontal"/>
+                <segment length="-38" orientation="vertical"/>
+                <segment length="-46" orientation="horizontal"/>
+                <segment length="-9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="115" terminal2="83" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="-420" orientation="vertical"/>
+                <segment length="-223" orientation="horizontal"/>
+                <segment length="96" orientation="vertical"/>
+                <segment length="9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="116" terminal2="78" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="-190" orientation="vertical"/>
+                <segment length="-90" orientation="horizontal"/>
+                <segment length="-66" orientation="vertical"/>
+                <segment length="-36" orientation="horizontal"/>
+                <segment length="-9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="117" terminal2="79" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="-180" orientation="vertical"/>
+                <segment length="-90" orientation="horizontal"/>
+                <segment length="-67" orientation="vertical"/>
+                <segment length="-26" orientation="horizontal"/>
+                <segment length="-9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="48" terminal2="52" type="multi">
+                <segment length="9" orientation="horizontal"/>
+                <segment length="105" orientation="vertical"/>
+                <segment length="-223" orientation="horizontal"/>
+                <segment length="110" orientation="vertical"/>
+                <segment length="19" orientation="horizontal"/>
+                <segment length="-9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="33" terminal2="46" type="multi"/>
+            <conductor num="" terminal1="35" terminal2="77" type="multi">
+                <segment length="14" orientation="vertical"/>
+                <segment length="-63.3333" orientation="horizontal"/>
+                <segment length="-59" orientation="vertical"/>
+                <segment length="-59.3333" orientation="horizontal"/>
+                <segment length="-32.3333" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="37" terminal2="76" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="-33.3333" orientation="horizontal"/>
+                <segment length="-52" orientation="vertical"/>
+                <segment length="-69.3333" orientation="horizontal"/>
+                <segment length="-32.3333" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="34" terminal2="75" type="multi"/>
+            <conductor num="" terminal1="36" terminal2="75" type="multi"/>
+            <conductor num="" terminal1="43" terminal2="69" type="multi"/>
+            <conductor num="_" terminal1="42" terminal2="70" type="multi">
+                <segment length="-9" orientation="horizontal"/>
+                <segment length="-108" orientation="horizontal"/>
+                <segment length="-24" orientation="vertical"/>
+                <segment length="-226" orientation="horizontal"/>
+                <segment length="32" orientation="vertical"/>
+                <segment length="-9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="41" terminal2="44" type="multi"/>
+            <conductor num="" terminal1="39" terminal2="44" type="multi"/>
+            <conductor num="" terminal1="38" terminal2="43" type="multi"/>
+            <conductor num="" terminal1="40" terminal2="42" type="multi"/>
+            <conductor num="" terminal1="50" terminal2="52" type="multi">
+                <segment length="-9" orientation="horizontal"/>
+                <segment length="-158" orientation="horizontal"/>
+                <segment length="231" orientation="vertical"/>
+                <segment length="19" orientation="horizontal"/>
+                <segment length="-9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="53" terminal2="44" type="multi"/>
+            <conductor num="" terminal1="54" terminal2="120" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="10" orientation="vertical"/>
+                <segment length="-530" orientation="horizontal"/>
+                <segment length="150" orientation="vertical"/>
+                <segment length="30" orientation="horizontal"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="52" terminal2="118" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="-189" orientation="horizontal"/>
+                <segment length="160" orientation="vertical"/>
+                <segment length="-200" orientation="horizontal"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="55" terminal2="62" type="multi"/>
+            <conductor num="" terminal1="57" terminal2="62" type="multi"/>
+            <conductor num="" terminal1="55" terminal2="57" type="multi"/>
+            <conductor num="" terminal1="56" terminal2="59" type="multi"/>
+            <conductor num="" terminal1="58" terminal2="60" type="multi"/>
+            <conductor num="" terminal1="92" terminal2="59" type="multi">
+                <segment length="-9" orientation="horizontal"/>
+                <segment length="-27" orientation="horizontal"/>
+                <segment length="33" orientation="vertical"/>
+                <segment length="-10" orientation="horizontal"/>
+                <segment length="-9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="91" terminal2="60" type="multi"/>
+            <conductor num="" terminal1="61" terminal2="83" type="multi"/>
+            <conductor num="" terminal1="104" terminal2="62" type="multi"/>
+            <conductor num="" terminal1="75" terminal2="118" type="multi">
+                <segment length="9" orientation="horizontal"/>
+                <segment length="6" orientation="horizontal"/>
+                <segment length="364" orientation="vertical"/>
+                <segment length="-200" orientation="horizontal"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="118" terminal2="90" type="multi"/>
+            <conductor num="" terminal1="77" terminal2="65" type="multi">
+                <segment length="9" orientation="horizontal"/>
+                <segment length="76" orientation="horizontal"/>
+                <segment length="-146" orientation="vertical"/>
+                <segment length="-380" orientation="horizontal"/>
+                <segment length="170" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="89" terminal2="65" type="multi">
+                <segment length="-9" orientation="horizontal"/>
+                <segment length="3" orientation="vertical"/>
+                <segment length="-217" orientation="horizontal"/>
+                <segment length="40" orientation="vertical"/>
+                <segment length="9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="102" terminal2="88" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="-180" orientation="vertical"/>
+                <segment length="100" orientation="horizontal"/>
+                <segment length="-30" orientation="vertical"/>
+                <segment length="67" orientation="horizontal"/>
+                <segment length="9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="100" terminal2="86" type="multi">
+                <segment length="-9" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="-224" orientation="vertical"/>
+                <segment length="137" orientation="horizontal"/>
+                <segment length="9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="65" terminal2="68" type="multi"/>
+            <conductor num="" terminal1="66" terminal2="63" type="multi">
+                <segment length="9" orientation="horizontal"/>
+                <segment length="30" orientation="horizontal"/>
+                <segment length="-50" orientation="vertical"/>
+                <segment length="20" orientation="horizontal"/>
+                <segment length="9" orientation="horizontal"/>
+            </conductor>
+            <conductor num="" terminal1="88" terminal2="64" type="multi"/>
+            <conductor num="" terminal1="68" terminal2="120" type="multi">
+                <segment length="9" orientation="vertical"/>
+                <segment length="170" orientation="vertical"/>
+                <segment length="0" orientation="horizontal"/>
+                <segment length="170" orientation="vertical"/>
+                <segment length="30" orientation="horizontal"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="67" terminal2="83" type="multi"/>
+            <conductor num="" terminal1="97" terminal2="103" type="multi"/>
+            <conductor num="VCC" terminal1="120" terminal2="98" type="multi"/>
+            <conductor num="" terminal1="105" terminal2="99" type="multi">
+                <segment length="9" orientation="horizontal"/>
+                <segment length="36.6667" orientation="vertical"/>
+                <segment length="-130" orientation="horizontal"/>
+                <segment length="66.6667" orientation="vertical"/>
+                <segment length="25.6667" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="107" terminal2="119" type="multi">
+                <segment length="9" orientation="horizontal"/>
+                <segment length="20" orientation="vertical"/>
+                <segment length="-100" orientation="horizontal"/>
+                <segment length="70" orientation="vertical"/>
+                <segment length="9" orientation="vertical"/>
+            </conductor>
+            <conductor num="" terminal1="106" terminal2="118" type="multi"/>
+            <conductor num="GND" terminal1="118" terminal2="104" type="multi"/>
+            <conductor num="D+" terminal1="101" terminal2="119" type="multi"/>
+            <conductor num="D-" terminal1="103" terminal2="99" type="multi"/>
+        </conductors>
+        <inputs>
+            <input x="960" y="590" text="PhoneJack"/>
+            <input x="520" y="550" text="Download Port"/>
+            <input x="560" y="600" text="Power Jump"/>
+            <input x="40" y="630" text="USB"/>
+            <input x="940" y="80" text="4K7"/>
+            <input x="850" y="320" text="4K7"/>
+            <input x="850" y="120" text="4K7"/>
+            <input x="850" y="230" text="4K7"/>
+            <input x="770" y="260" text="4K7"/>
+            <input x="770" y="200" text="4K7"/>
+            <input x="980" y="460" text="10u"/>
+            <input x="910" y="500" text="10u"/>
+            <input x="800" y="320" text="10u"/>
+            <input x="800" y="120" text="10u"/>
+            <input x="720" y="120" text="10p"/>
+            <input x="230" y="530" text="3V6"/>
+            <input x="230" y="500" text="3V6"/>
+            <input x="620" y="300" text="47K"/>
+            <input x="550" y="300" text="47K"/>
+            <input x="450" y="280" text="0.1n"/>
+            <input x="500" y="310" text="0.1n"/>
+            <input x="210" y="330" text="12Mhz"/>
+            <input x="190" y="320" text="22p"/>
+            <input x="190" y="300" text="22p"/>
+            <input x="530" y="420" text="AMS1117"/>
+            <input x="380" y="540" text="1K"/>
+            <input x="70" y="310" text="1K"/>
+            <input x="60" y="240" text="10K"/>
+            <input x="110" y="490" text="66"/>
+            <input x="70" y="490" text="66"/>
+            <input x="40" y="560" text="1.5K"/>
+            <input x="450" y="540" text="0"/>
+        </inputs>
+    </diagram>
+    <collection>
+        <category name="import">
+            <names>
+                <name lang="ru">Импортированные элементы</name>
+                <name lang="en">Imported elements</name>
+                <name lang="fr">Éléments importés</name>
+                <name lang="es">Elementos importados</name>
+                <name lang="cs">Zavedené prvky</name>
+            </names>
+            <category name="recepteurs">
+                <names>
+                    <name lang="ru">Приёмники</name>
+                    <name lang="pt">Receptores</name>
+                    <name lang="en">Receivers</name>
+                    <name lang="fr">Récepteurs</name>
+                    <name lang="es">Receptores</name>
+                    <name lang="cs">Přijímače</name>
+                </names>
+                <category name="rlc">
+                    <names>
+                        <name lang="ru">RLC</name>
+                        <name lang="pt">RLC</name>
+                        <name lang="en">RLC</name>
+                        <name lang="fr">RLC</name>
+                        <name lang="es">RLC</name>
+                        <name lang="cs">RLC</name>
+                    </names>
+                    <category name="normaux">
+                        <names>
+                            <name lang="ru">Нормальные</name>
+                            <name lang="pt">Normais</name>
+                            <name lang="en">Normal</name>
+                            <name lang="fr">Normaux</name>
+                            <name lang="es">Normales</name>
+                            <name lang="cs">Obyčejné</name>
+                        </names>
+                        <element name="resistance.elmt">
+                            <definition width="20" version="0.2" hotspot_x="10" hotspot_y="25" height="50" type="element" orientation="dnny">
+                                <names>
+                                    <name lang="ru">Резистор</name>
+                                    <name lang="en">Resistor</name>
+                                    <name lang="fr">Résistance</name>
+                                    <name lang="es">Resistencia</name>
+                                    <name lang="cs">Odporník</name>
+                                    <name lang="pt">Resistência</name>
+                                </names>
+                                <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                                <description>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" x1="0" y2="-20" x2="0"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" x1="0" y2="20" x2="0"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" x1="4" y2="-10" x2="4"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" x1="-4" y2="10" x2="4"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" x1="4" y2="-10" x2="-4"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" x1="-4" y2="10" x2="-4"/>
+                                    <terminal x="0" y="-21" orientation="n"/>
+                                    <terminal x="0" y="21" orientation="s"/>
+                                </description>
+                            </definition>
+                        </element>
+                        <element name="capacite.elmt">
+                            <definition width="20" version="0.2" hotspot_x="10" hotspot_y="25" height="50" type="element" orientation="dnny">
+                                <names>
+                                    <name lang="ru">Конденсатор</name>
+                                    <name lang="en">Capacitor</name>
+                                    <name lang="fr">Capacité</name>
+                                    <name lang="es">Condensador</name>
+                                    <name lang="cs">Kondenzátor</name>
+                                    <name lang="pt">Condensador</name>
+                                </names>
+                                <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                                <description>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" x1="-5" y2="2" x2="5"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2" x1="-5" y2="-2" x2="5"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" x1="0" y2="20" x2="0"/>
+                                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x1="0" y2="-2" x2="0"/>
+                                    <terminal x="0" y="-21" orientation="n"/>
+                                    <terminal x="0" y="21" orientation="s"/>
+                                </description>
+                            </definition>
+                        </element>
+                    </category>
+                </category>
+            </category>
+            <category name="semiconducteurs">
+                <names>
+                    <name lang="ru">Полупроводники</name>
+                    <name lang="pt">Semi-conductores</name>
+                    <name lang="en">Semiconductors</name>
+                    <name lang="fr">Semi-conducteurs</name>
+                    <name lang="es">Semiconductores</name>
+                    <name lang="cs">Polovodiče</name>
+                </names>
+                <element name="del.elmt">
+                    <definition width="30" version="0.1" hotspot_x="10" hotspot_y="25" height="50" type="element" orientation="dnny">
+                        <names>
+                            <name lang="ru">Светодиод</name>
+                            <name lang="en">LED</name>
+                            <name lang="fr">DEL</name>
+                            <name lang="es">LED</name>
+                            <name lang="cs">Svítící dioda (Světelná emisní dioda - LED)</name>
+                            <name lang="pt">LED</name>
+                        </names>
+                        <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                        <description>
+                            <polygon antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="2" x1="-7" y2="1" x2="-9" y3="0" x3="-7"/>
+                            <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" x1="-7" y2="1" x2="-5.25"/>
+                            <polygon antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="-2.5" x1="-9" y2="-3.5" x2="-7" y3="-1.5" x3="-7"/>
+                            <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2.5" x1="-7" y2="-2.5" x2="-5.25"/>
+                            <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" x1="-5" y2="5" x2="5"/>
+                            <polygon antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" x1="-5" y2="-5" x2="5" y3="5" x3="0"/>
+                            <input x="7.75" y="3" size="9" text="_"/>
+                            <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x1="0" y2="20" x2="0"/>
+                            <terminal x="0" y="-21" orientation="n"/>
+                            <terminal x="0" y="21" orientation="s"/>
+                        </description>
+                    </definition>
+                </element>
+                <element name="diode.elmt">
+                    <definition width="30" version="0.1" hotspot_x="10" hotspot_y="25" height="50" type="element" orientation="dnny">
+                        <names>
+                            <name lang="ru">Диод</name>
+                            <name lang="en">Diode</name>
+                            <name lang="fr">Diode</name>
+                            <name lang="es">Diodo</name>
+                            <name lang="cs">Dioda</name>
+                            <name lang="pt">Díodo</name>
+                        </names>
+                        <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                        <description>
+                            <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" x1="-5" y2="5" x2="5"/>
+                            <polygon antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" x1="-5" y2="-5" x2="5" y3="5" x3="0"/>
+                            <input x="7.75" y="3" size="9" text="_"/>
+                            <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x1="0" y2="20" x2="0"/>
+                            <terminal x="0" y="-21" orientation="n"/>
+                            <terminal x="0" y="21" orientation="s"/>
+                        </description>
+                    </definition>
+                </element>
+            </category>
+            <category name="protections">
+                <names>
+                    <name lang="ru">Защитные уст-ва</name>
+                    <name lang="pt">Protecções</name>
+                    <name lang="en">Protections</name>
+                    <name lang="fr">Protections</name>
+                    <name lang="es">Protecciones</name>
+                    <name lang="cs">Ochrany</name>
+                </names>
+                <element name="int_sect.elmt">
+                    <definition width="30" version="0.2" hotspot_x="10" hotspot_y="25" height="50" type="element" orientation="dnny">
+                        <names>
+                            <name lang="ru">Выключатель-разъеденитель</name>
+                            <name lang="en">Switch disconnector</name>
+                            <name lang="fr">Interrupteur sectionneur</name>
+                            <name lang="es">Interruptor seccionador</name>
+                            <name lang="cs">Odpojovač přepnutí</name>
+                            <name lang="pt">Interruptor seccionador</name>
+                        </names>
+                        <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                        <description>
+                            <polygon antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y1="-10" x1="-5" y2="10" x2="0" y3="20" x3="0"/>
+                            <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x1="0" y2="-12.5" x2="0"/>
+                            <input x="2.75" y="3" size="9" text="_"/>
+                            <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12.5" x1="2" y2="-12.5" x2="-2"/>
+                            <circle x="-1.75" y="-11.75" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="3.5"/>
+                            <terminal x="0" y="-21" orientation="n"/>
+                            <terminal x="0" y="21" orientation="s"/>
+                        </description>
+                    </definition>
+                </element>
+            </category>
+            <category name="contacts">
+                <names>
+                    <name lang="ru">Контакты</name>
+                    <name lang="pt">Contactos</name>
+                    <name lang="en">Contacts</name>
+                    <name lang="fr">Contacts</name>
+                    <name lang="es">Terminales</name>
+                    <name lang="cs">Kontakty</name>
+                </names>
+                <category name="bornes">
+                    <names>
+                        <name lang="ru">соеденителей</name>
+                        <name lang="pt">Terminais</name>
+                        <name lang="en">Terminals</name>
+                        <name lang="fr">Bornes</name>
+                        <name lang="es">Terminales</name>
+                        <name lang="cs">Svorky</name>
+                    </names>
+                    <element name="connecteur_m.elmt">
+                        <definition width="30" version="0.2" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                            <names>
+                                <name lang="ru">Штырь (нов.)</name>
+                                <name lang="fr">Connecteur mâle</name>
+                                <name lang="en">Male connector</name>
+                                <name lang="es">Connector macho</name>
+                                <name lang="cs">Mužská spojka</name>
+                                <name lang="pt">Conector macho</name>
+                            </names>
+                            <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                            <description>
+                                <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" x1="-1" y2="9" x2="-1"/>
+                                <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" x1="1" y2="9" x2="1"/>
+                                <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" x1="0" y2="20" x2="0"/>
+                                <terminal x="0" y="19" orientation="n"/>
+                            </description>
+                        </definition>
+                    </element>
+                </category>
+            </category>
+            <element name="antenna.elmt">
+                <definition width="30" version="0.22" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                    <names>
+                        <name lang="zh">antenna</name>
+                    </names>
+                    <informations/>
+                    <description>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" x1="0" y2="-1" x2="0"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="-10" y2="-13" x2="-1"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="10" y2="-12" x2="0"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="0" y2="-12" x2="0"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="-10" y2="-25" x2="10"/>
+                        <terminal x="0" y="1" orientation="s"/>
+                    </description>
+                </definition>
+            </element>
+            <element name="ams1117.elmt">
+                <definition width="50" version="0.22" hotspot_x="25" hotspot_y="25" height="50" type="element" orientation="dyyy">
+                    <names>
+                        <name lang="zh">ams1117</name>
+                    </names>
+                    <informations/>
+                    <description>
+                        <input x="-11" y="0.333333" size="4" rotate="true" text="AMS1117"/>
+                        <rect width="16" x="-8" y="-13" antialias="false" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <rect width="32" x="-16" y="-8" antialias="false" height="15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <terminal x="-11" y="11" orientation="s"/>
+                        <terminal x="-1" y="11" orientation="s"/>
+                        <terminal x="10" y="11" orientation="s"/>
+                    </description>
+                </definition>
+            </element>
+            <element name="oscal.elmt">
+                <definition width="30" version="0.22" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                    <names>
+                        <name lang="zh">oscal</name>
+                    </names>
+                    <informations/>
+                    <description>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" x1="0" y2="10" x2="0"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x1="0" y2="-11" x2="0"/>
+                        <rect width="20" x="-10" y="-4" antialias="false" height="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" x1="-10" y2="10" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" x1="-10" y2="-10" x2="10"/>
+                        <terminal x="0" y="-20" orientation="n"/>
+                        <terminal x="0" y="21" orientation="s"/>
+                    </description>
+                </definition>
+            </element>
+            <element name="tea5767.elmt">
+                <definition width="60" version="0.22" hotspot_x="30" hotspot_y="30" height="60" type="element" orientation="dyyy">
+                    <names>
+                        <name lang="zh">tea5767</name>
+                    </names>
+                    <informations/>
+                    <description>
+                        <circle x="-16.2361" y="-17.2361" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4.47214"/>
+                        <rect width="39" x="-19" y="-20" antialias="false" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <input x="-14" y="1.66667" size="6" rotate="true" text="TEA5767"/>
+                        <terminal x="-23" y="-16" orientation="w"/>
+                        <terminal x="-23" y="-7" orientation="w"/>
+                        <terminal x="-23" y="16" orientation="w"/>
+                        <terminal x="-23" y="6" orientation="w"/>
+                        <terminal x="24" y="-17" orientation="e"/>
+                        <terminal x="24" y="-8" orientation="e"/>
+                        <terminal x="24" y="15" orientation="e"/>
+                        <terminal x="24" y="5" orientation="e"/>
+                    </description>
+                </definition>
+            </element>
+            <element name="ne5532.elmt">
+                <definition width="70" version="0.22" hotspot_x="35" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                    <names>
+                        <name lang="zh">ne5532</name>
+                    </names>
+                    <informations/>
+                    <description>
+                        <circle x="-27.6056" y="10.3944" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7.2111"/>
+                        <input x="-21" y="2.33333" size="9" rotate="true" text="NE5553"/>
+                        <rect width="60" x="-30" y="-20" antialias="false" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <terminal x="-22" y="-24" orientation="n"/>
+                        <terminal x="-10" y="-24" orientation="n"/>
+                        <terminal x="7" y="-24" orientation="n"/>
+                        <terminal x="20" y="-24" orientation="n"/>
+                        <terminal x="-22" y="24" orientation="s"/>
+                        <terminal x="-10" y="24" orientation="s"/>
+                        <terminal x="8" y="24" orientation="s"/>
+                        <terminal x="20" y="24" orientation="s"/>
+                    </description>
+                </definition>
+            </element>
+            <element name="phonejack.elmt">
+                <definition width="30" version="0.22" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                    <names>
+                        <name lang="zh">phonejack</name>
+                    </names>
+                    <informations/>
+                    <description>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30" x1="-11" y2="30" x2="0"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" x1="0" y2="29" x2="0"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2" x1="-3" y2="0" x2="-3"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x1="-6" y2="-3" x2="-3"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x1="-13" y2="0" x2="-6"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="-2" y2="-15" x2="-5"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="-6" y2="-15" x2="-5"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="-13" y2="-18" x2="-6"/>
+                        <rect width="10" x="0" y="-20" antialias="false" height="41" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-19" x1="1" y2="-19" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="17" x1="1" y2="17" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="1" y2="-18" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="18" x1="1" y2="18" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-17" x1="1" y2="-17" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19" x1="1" y2="19" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-16" x1="1" y2="-16" x2="10"/>
+                        <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" x1="1" y2="20" x2="10"/>
+                        <terminal x="-13" y="-18" orientation="w"/>
+                        <terminal x="-13" y="0" orientation="w"/>
+                        <terminal x="-13" y="30" orientation="w"/>
+                    </description>
+                </definition>
+            </element>
+        </category>
+        <element name="antenna.elmt">
+            <definition width="30" version="0.22" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">antenna</name>
+                </names>
+                <informations/>
+                <description>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" x1="0" y2="-1" x2="0"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="-10" y2="-13" x2="-1"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="10" y2="-12" x2="0"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="0" y2="-12" x2="0"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" x1="-10" y2="-25" x2="10"/>
+                    <terminal x="0" y="1" orientation="s"/>
+                </description>
+            </definition>
+        </element>
+        <element name="ams1117.elmt">
+            <definition width="50" version="0.22" hotspot_x="25" hotspot_y="25" height="50" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">ams1117</name>
+                </names>
+                <informations/>
+                <description>
+                    <input x="-11" y="0.333333" size="4" rotate="true" text="AMS1117"/>
+                    <rect width="16" x="-8" y="-13" antialias="false" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <rect width="32" x="-16" y="-8" antialias="false" height="15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <terminal x="-11" y="11" orientation="s"/>
+                    <terminal x="-1" y="11" orientation="s"/>
+                    <terminal x="10" y="11" orientation="s"/>
+                </description>
+            </definition>
+        </element>
+        <element name="oscal.elmt">
+            <definition width="30" version="0.22" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">oscal</name>
+                </names>
+                <informations/>
+                <description>
+                    <rect width="14" x="-7" y="-3" antialias="false" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" x1="-7" y2="5" x2="7"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" x1="-7" y2="-5" x2="7"/>
+                    <terminal x="0" y="-9" orientation="n"/>
+                    <terminal x="0" y="10" orientation="s"/>
+                </description>
+            </definition>
+        </element>
+        <element name="tea5767.elmt">
+            <definition width="60" version="0.22" hotspot_x="30" hotspot_y="30" height="60" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">tea5767</name>
+                </names>
+                <informations/>
+                <description>
+                    <circle x="-16.2361" y="-17.2361" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4.47214"/>
+                    <rect width="39" x="-19" y="-20" antialias="false" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <input x="-14" y="1.66667" size="6" rotate="true" text="TEA5767"/>
+                    <terminal x="-23" y="-16" orientation="w"/>
+                    <terminal x="-23" y="-7" orientation="w"/>
+                    <terminal x="-23" y="16" orientation="w"/>
+                    <terminal x="-23" y="6" orientation="w"/>
+                    <terminal x="24" y="-17" orientation="e"/>
+                    <terminal x="24" y="-8" orientation="e"/>
+                    <terminal x="24" y="15" orientation="e"/>
+                    <terminal x="24" y="5" orientation="e"/>
+                    <terminal x="-23" y="-1" orientation="w"/>
+                    <terminal x="24" y="-1" orientation="e"/>
+                </description>
+            </definition>
+        </element>
+        <element name="atmega8.elmt">
+            <definition width="90" version="0.22" hotspot_x="45" hotspot_y="55" height="130" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">ATMega8</name>
+                </names>
+                <informations/>
+                <description>
+                    <rect width="59" x="-29" y="-49" antialias="false" height="119" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <circle x="-4.47214" y="-38.4721" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="8.94427"/>
+                    <circle x="-25" y="-45" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="2"/>
+                    <input x="-18" y="9" size="8" rotate="true" text="ATMeag8"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-44" x1="-33" y2="-44" x2="-29"/>
+                    <circle x="-4.47214" y="48.5279" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="8.94427"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-45" x1="30" y2="-45" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34" x1="-33" y2="34" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="58" x1="-33" y2="58" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="42" x1="-33" y2="42" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-3" x1="-33" y2="-3" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" x1="-33" y2="-10" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-17" x1="-33" y2="-17" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-24" x1="-33" y2="-24" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-30" x1="-33" y2="-30" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="50" x1="-33" y2="50" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-37" x1="-33" y2="-37" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="33" x1="30" y2="33" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="25" x1="-33" y2="25" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="58" x1="30" y2="58" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="16" x1="-33" y2="16" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="42" x1="30" y2="42" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" x1="-33" y2="8" x2="-29"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-4" x1="30" y2="-4" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-12" x1="30" y2="-12" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-19" x1="30" y2="-19" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-26" x1="30" y2="-26" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-32" x1="30" y2="-32" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="50" x1="30" y2="50" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-38" x1="30" y2="-38" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="24" x1="30" y2="24" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="16" x1="30" y2="16" x2="34"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" x1="30" y2="8" x2="34"/>
+                    <terminal x="35" y="-45" orientation="e"/>
+                    <terminal x="35" y="-38" orientation="e"/>
+                    <terminal x="35" y="-32" orientation="e"/>
+                    <terminal x="35" y="-26" orientation="e"/>
+                    <terminal x="35" y="-19" orientation="e"/>
+                    <terminal x="35" y="-12" orientation="e"/>
+                    <terminal x="35" y="-4" orientation="e"/>
+                    <terminal x="35" y="8" orientation="e"/>
+                    <terminal x="35" y="16" orientation="e"/>
+                    <terminal x="35" y="24" orientation="e"/>
+                    <terminal x="35" y="33" orientation="e"/>
+                    <terminal x="35" y="42" orientation="e"/>
+                    <terminal x="35" y="50" orientation="e"/>
+                    <terminal x="35" y="58" orientation="e"/>
+                    <terminal x="-34" y="-44" orientation="w"/>
+                    <terminal x="-34" y="-37" orientation="w"/>
+                    <terminal x="-34" y="-30" orientation="w"/>
+                    <terminal x="-34" y="-24" orientation="w"/>
+                    <terminal x="-34" y="-17" orientation="w"/>
+                    <terminal x="-34" y="-10" orientation="w"/>
+                    <terminal x="-34" y="-3" orientation="w"/>
+                    <terminal x="-34" y="8" orientation="w"/>
+                    <terminal x="-34" y="16" orientation="w"/>
+                    <terminal x="-34" y="25" orientation="w"/>
+                    <terminal x="-34" y="34" orientation="w"/>
+                    <terminal x="-34" y="42" orientation="w"/>
+                    <terminal x="-34" y="50" orientation="w"/>
+                    <terminal x="-34" y="58" orientation="w"/>
+                </description>
+            </definition>
+        </element>
+        <element name="ne5532.elmt">
+            <definition width="70" version="0.22" hotspot_x="35" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">ne5532</name>
+                </names>
+                <informations/>
+                <description>
+                    <circle x="-27.6056" y="10.3944" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7.2111"/>
+                    <input x="-21" y="2.33333" size="9" rotate="true" text="NE5553"/>
+                    <rect width="60" x="-30" y="-20" antialias="false" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <terminal x="-22" y="-24" orientation="n"/>
+                    <terminal x="-10" y="-24" orientation="n"/>
+                    <terminal x="7" y="-24" orientation="n"/>
+                    <terminal x="20" y="-24" orientation="n"/>
+                    <terminal x="-22" y="24" orientation="s"/>
+                    <terminal x="-10" y="24" orientation="s"/>
+                    <terminal x="8" y="24" orientation="s"/>
+                    <terminal x="20" y="24" orientation="s"/>
+                </description>
+            </definition>
+        </element>
+        <element name="phonejack.elmt">
+            <definition width="30" version="0.22" hotspot_x="15" hotspot_y="35" height="70" type="element" orientation="dyyy">
+                <names>
+                    <name lang="zh">phonejack</name>
+                </names>
+                <informations/>
+                <description>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30" x1="-11" y2="30" x2="0"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" x1="0" y2="29" x2="0"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2" x1="-3" y2="0" x2="-3"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x1="-6" y2="-3" x2="-3"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x1="-13" y2="0" x2="-6"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="-2" y2="-15" x2="-5"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="-6" y2="-15" x2="-5"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="-13" y2="-18" x2="-6"/>
+                    <rect width="10" x="0" y="-20" antialias="false" height="41" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-19" x1="1" y2="-19" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="17" x1="1" y2="17" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x1="1" y2="-18" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="18" x1="1" y2="18" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-17" x1="1" y2="-17" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19" x1="1" y2="19" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-16" x1="1" y2="-16" x2="10"/>
+                    <line length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" x1="1" y2="20" x2="10"/>
+                    <terminal x="-13" y="-18" orientation="w"/>
+                    <terminal x="-13" y="0" orientation="w"/>
+                    <terminal x="-13" y="30" orientation="w"/>
+                </description>
+            </definition>
+        </element>
+    </collection>
+</project>

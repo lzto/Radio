@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+708fc87e86a353a44a47053eacf13f92 WaveRadio.moc
+652f225daccc4357982b3f297efd5adc aboutwidget.moc
+f11d4d701c6a9bf0bea387cadbfd863a waveradiobackend.moc
+84de6a47daa9dbdd9e64a2ab6c09c0f7 wavewidget.moc

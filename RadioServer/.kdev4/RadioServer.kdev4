@@ -1,0 +1,11 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x16\x00R\x00a\x00d\x00i\x00o\x00S\x00e\x00r\x00v\x00e\x00r)
+
+[CMake]
+BuildDirs=/home/lovewilliam/Develop/Radio/RadioServer/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/lovewilliam/Develop/Radio/RadioServer/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+ProjectRootRelative=./
